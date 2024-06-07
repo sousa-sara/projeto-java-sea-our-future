@@ -61,7 +61,7 @@ A proposta do projeto é desenvolver um sistema robusto para o gerenciamento de 
 - **Oracle Database**: Banco de dados utilizado para armazenar as tabelas de Empresa, Contato, Endereco e Perfil.
 
 ## Justificativa – O Porquê do Projeto "Sea Our Future"
-O projeto "Sea Our Future" tem como objetivo criar uma aplicação Java que gerencie informações de cadastros de empresas. Esta aplicação é uma solução B2B (Business to Business) inovadora que serve como uma ponte para conectar empresas transformadoras, que produzem produtos finais, com fornecedoras de plásticos. A intenção é facilitar e promover a reutilização de plásticos, contribuindo significativamente para a redução do acúmulo de plásticos nos oceanos.
+O projeto "Sea Our Future" tem como objetivo criar uma aplicação que gerencie informações de cadastros de empresas. Esta aplicação é uma solução B2B (Business to Business) inovadora que serve como uma ponte para conectar empresas transformadoras, que produzem produtos finais, com fornecedoras de plásticos. A intenção é facilitar e promover a reutilização de plásticos, contribuindo significativamente para a redução do acúmulo de plásticos nos oceanos.
 
 ### Razões para o Projeto
 
