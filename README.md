@@ -14,7 +14,7 @@ Felipe Amador | Leonardo de Oliveira | Sara Sousa
 ## Descrição do Projeto
 
 ### Sobre
-O projeto Java (BACK-END) em si oferece funcionalidades para CRUD (Create, Read, Update, Delete) e integração com serviços externos (API) para obtenção de dados de endereços.
+O projeto Java (back-end) em si oferece funcionalidades para CRUD (Create, Read, Update, Delete) e integração com serviços externos (API) para obtenção de dados de endereços.
 
 ### Proposta
 A proposta do projeto é desenvolver um sistema robusto para o gerenciamento de informações das empresas como dados primários, contato, endereço e perfil. O sistema lida com operações de banco de dados de forma eficiente e segura, bem como fornecer serviços RESTful para interação com aplicações externas.
