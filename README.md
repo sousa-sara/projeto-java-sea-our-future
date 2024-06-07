@@ -1,9 +1,20 @@
 # Projeto Java "Sea Our Future"
 
+## Desenvolvimento
+Projeto desenvolvido para a *Global Solution - Blue Future (Desafio Inovação Azul 2024)* proposta pela instituição de ensino *FIAP*. 
+
+Este desafio busca ideias inovadoras e soluções tecnológicas que promovam a gestão sustentável dos oceanos. O foco é desenvolver projetos que sejam ecologicamente responsáveis, economicamente viáveis e socialmente inclusivos e inovadores.
+
+## Desenvolvedores
+_Turma: 1TDSPS_
+
+Felipe Amador | Leonardo de Oliveira | Sara Sousa 
+
+
 ## Descrição do Projeto
 
 ### Sobre
-O projeto Java em si oferece funcionalidades para CRUD (Create, Read, Update, Delete) e integração com serviços externos (API) para obtenção de dados de endereços.
+O projeto Java (BACK-END) em si oferece funcionalidades para CRUD (Create, Read, Update, Delete) e integração com serviços externos (API) para obtenção de dados de endereços.
 
 ### Proposta
 A proposta do projeto é desenvolver um sistema robusto para o gerenciamento de informações das empresas como dados primários, contato, endereço e perfil. O sistema lida com operações de banco de dados de forma eficiente e segura, bem como fornecer serviços RESTful para interação com aplicações externas.
@@ -71,3 +82,9 @@ Ao promover a reutilização de plásticos, o projeto apoia a economia circular,
 
 #### Plataforma de Negócios Inovadora
 A aplicação não é apenas um sistema de gerenciamento, mas uma plataforma de negócios inovadora que facilita parcerias e colaborações entre empresas, incentivando a adoção de práticas mais ecológicas e sustentáveis.
+
+## FRONT-END
+Através do link abaixo, encontra-se o front-end da aplicação *SEA OUR FUTURE*:
+
+https://github.com/leooli-321/Sea-Our-Future
+
